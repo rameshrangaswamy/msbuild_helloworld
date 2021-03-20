@@ -1,0 +1,13 @@
+c:\users\samba\source\repos\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe.config
+c:\users\samba\source\repos\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe
+c:\users\samba\source\repos\HelloWorld\HelloWorld\bin\Release\HelloWorld.pdb
+c:\users\samba\source\repos\HelloWorld\HelloWorld\obj\Release\HelloWorld.csproj.CoreCompileInputs.cache
+c:\users\samba\source\repos\HelloWorld\HelloWorld\obj\Release\HelloWorld.exe
+c:\users\samba\source\repos\HelloWorld\HelloWorld\obj\Release\HelloWorld.pdb
+C:\tools\jenkins\jenkins_home\workspace\msbuild-pipeline\code\HelloWorld\bin\Release\HelloWorld.exe.config
+C:\tools\jenkins\jenkins_home\workspace\msbuild-pipeline\code\HelloWorld\bin\Release\HelloWorld.exe
+C:\tools\jenkins\jenkins_home\workspace\msbuild-pipeline\code\HelloWorld\bin\Release\HelloWorld.pdb
+C:\tools\jenkins\jenkins_home\workspace\msbuild-pipeline\code\HelloWorld\obj\Release\HelloWorld.csprojAssemblyReference.cache
+C:\tools\jenkins\jenkins_home\workspace\msbuild-pipeline\code\HelloWorld\obj\Release\HelloWorld.csproj.CoreCompileInputs.cache
+C:\tools\jenkins\jenkins_home\workspace\msbuild-pipeline\code\HelloWorld\obj\Release\HelloWorld.exe
+C:\tools\jenkins\jenkins_home\workspace\msbuild-pipeline\code\HelloWorld\obj\Release\HelloWorld.pdb

@@ -1,0 +1,7 @@
+c:\users\samba\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+c:\users\samba\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+c:\users\samba\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\samba\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+c:\users\samba\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+c:\users\samba\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+c:\users\samba\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
