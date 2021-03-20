@@ -1,1 +1,1 @@
-@Library('samba_jenkins_shared_library') _
+@Library('samba_jenkins_shared_library@feture/2.0') _
