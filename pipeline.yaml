@@ -1,0 +1,13 @@
+pipelineType: msbuild
+runTests: true
+buildCommand: "msbuid /t:rebuild /p:configuration:Release"
+testCommand: "msbuid /t:rebuild /p:configuration:Release"
+deployUponTestSuccess: true
+deploymentEnvironment: "staging"
+
+#pipelineType: java
+#runTests: true
+#testCommand: mvn test
+#deployUponTestSuccess: true
+#deploymentEnvironment: staging
+
