@@ -4,4 +4,4 @@
 //jenkins_yaml_pipeline_runner("Jenkins.yaml")
 
 import org.acme.*
-new stdPipeline().execute()
+//new stdPipeline().execute()
