@@ -4,4 +4,7 @@ import org.acme.*
 //jenkins_yaml_pipeline_runner("Jenkins.yaml")
 
 echo "calling Std Pipeline"
-new stdPipeline().execute()
+//new stdPipeline().execute()
+calling maven pipeline
+
+MavenPipeline()
