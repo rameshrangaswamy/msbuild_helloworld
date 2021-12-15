@@ -1,4 +1,4 @@
-node('dotnet-22'){
+node(){
    try { 
 
       def workingFolder = "/tmp/workspace/${env.JOB_NAME}"
